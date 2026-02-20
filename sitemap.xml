@@ -1,25 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rorojiao.github.io/fortune-tools/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/mysticfate/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/psychetest/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/calcsmart/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/lovematch/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/devtoolbox/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/healthcalc/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/cryptogauge/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/quizvibe/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/dreamoracle/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/namegenius/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/unitswitch/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/datecalc/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/merge-2048/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/qrcraft/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/passwordfort/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/colorpick/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/petmatch/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/ageguess/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/seolite/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/texttoolkit/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rorojiao.github.io/tool-hub/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url>
+  <loc>https://rorojiao.github.io/fortune-tools/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/mysticfate/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/psychetest/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/calcsmart/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/lovematch/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/devtoolbox/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/healthcalc/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/cryptogauge/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/quizvibe/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/dreamoracle/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/namegenius/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/unitswitch/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/datecalc/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/merge-2048/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/qrcraft/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/passwordfort/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/colorpick/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/petmatch/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/ageguess/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/seolite/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/texttoolkit/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/tool-hub/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://rorojiao.github.io/image-tools/</loc>
+  <lastmod>2026-02-20</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
 </urlset>
